@@ -45,6 +45,15 @@
   max-width: 250px;
   margin-bottom: var(--dl-space-space-doubleunit);
 }
+.place-card-root-class-name {
+  display: none;
+}
+.place-card-root-class-name1 {
+  display: none;
+}
+.place-card-root-class-name2 {
+  display: none;
+}
 @media(max-width: 767px) {
   .place-card-container {
     width: 200px;
