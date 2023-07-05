@@ -96,6 +96,7 @@
   flex-direction: column;
   background-size: cover;
   background-image: url("public/widedarkend-1500w.png");
+  background-repeat: repeat;
   background-position: top;
 }
 .landing-page-navbar {
@@ -304,7 +305,7 @@
   padding-bottom: var(--dl-space-space-quadruple);
   justify-content: flex-start;
 }
-.landing-page-text15 {
+.landing-page-text12 {
   color: var(--dl-color-gray-500);
 }
 .landing-page-cards-container {
@@ -395,7 +396,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.landing-page-text16 {
+.landing-page-text13 {
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .landing-page-icons-container1 {
